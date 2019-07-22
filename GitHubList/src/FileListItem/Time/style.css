@@ -1,0 +1,10 @@
+.time-container {
+    text-align: right;
+    width:150px;
+    padding:5px;
+    
+}
+
+.time {
+    color: #6a737d;
+}

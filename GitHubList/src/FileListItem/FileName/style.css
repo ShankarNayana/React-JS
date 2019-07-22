@@ -1,0 +1,15 @@
+.folder-icon {
+    display: inline-block;
+    width: 15px;
+    margin-right: 4px;
+}
+
+.filename-container {
+    width:250px;
+    padding:5px;
+}
+
+.file-name {
+    display:inline-block;
+    color: #0366d6;
+}

@@ -1,0 +1,68 @@
+[
+    {
+        "name": "build",
+        "message": "Close #1687, Replace es3ify with Babel ES3 transforms (#1688)",
+        "time": "2 months ago",
+        "type": "folder"
+    },
+    {
+        "name": "docs",
+        "message": "Mention that we're Observable in the API.",
+        "time": "9 hours ago",
+        "type": "folder"
+    },
+    {
+        "name": "examples",
+        "message": "Update doc to use test  with Enzyme (#1692)",
+        "time": "18 days ago",
+        "type": "folder"
+    },
+    {
+        "name": "logo",
+        "message": "Use Redux logo as favicon on GitBook docs (#1761)",
+        "time": "2 months ago",
+        "type": "folder"
+    },
+    {
+        "name": "src",
+        "message": "Only warn for unexpected key once per key (#1818)",
+        "time": "22 days ago",
+        "type": "folder"
+    },
+    {
+        "name": "test",
+        "message": "Only warn for unexpected key once per key (#1818)",
+        "time": "22 days ago",
+        "type": "folder"
+    },
+    {
+        "name": ".babelrc",
+        "message": "Close #1687, Replace es3ify with Babel ES3 transforms (#1688)",
+        "time": "2 months ago",
+        "type": "file"
+    },
+    {
+        "name": ".editorconfig",
+        "message": "editorconfig: do not trim trailing whitespaces in Markdown files",
+        "time": "5 months ago",
+        "type": "file"
+    },
+    {
+        "name": ".eslintignore",
+        "message": "Really ignore all node_modules and dist in eslint.",
+        "time": "4 months ago",
+        "type": "file"
+    },
+    {
+        "name": ".eslintrc",
+        "message": "Bump eslint version",
+        "time": "9 months ago",
+        "type": "file"
+    },
+    {
+        "name": ".flowconfig",
+        "message": "Add Flow type annotations",
+        "time": "a year ago",
+        "type": "file"
+    }
+]
