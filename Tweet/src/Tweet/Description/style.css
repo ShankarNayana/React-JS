@@ -1,0 +1,17 @@
+.description-container {
+    display: inline-block;       
+    position: relative;
+    top:-70px;
+    left:100px;
+    text-align:justify;
+    padding-left: 10px;
+    /* overflow:auto; */
+   
+    }
+
+.description {
+    color:#14171a;
+    font-family:"Segoe UI", Arial, sans-serif;
+    width:85%;
+    
+}

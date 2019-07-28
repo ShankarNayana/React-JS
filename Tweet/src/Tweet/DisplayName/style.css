@@ -1,0 +1,14 @@
+.displayname-container {
+    float: left; 
+}
+
+.display-name {
+    font-weight: bold;
+    display:inline-block;
+}
+
+.display-user {
+    color: #657786;
+    display:inline-block;
+    padding-left:10px;
+}

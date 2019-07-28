@@ -1,0 +1,7 @@
+.display-image {
+    width:100px;
+    height:100px;
+    float: left;
+    border-radius: 50%;
+    padding-right: 10px;
+}
