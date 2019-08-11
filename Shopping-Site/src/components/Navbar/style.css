@@ -1,0 +1,20 @@
+.navbar-container {
+    border-bottom: 2px solid #2196f3;
+}
+.navbar-list{
+    margin: 20px 20px 0 20px;
+    padding: 10px;
+}
+.navbar-list-item {
+    cursor: pointer;
+    list-style-type: none;
+    display: inline-block;
+    font-size: 24px;
+    margin-right: 32px;
+    padding-bottom: 5px;
+}
+
+.navbar-item-active {
+    border-bottom: 4px solid #ffeb3b;
+}
+
